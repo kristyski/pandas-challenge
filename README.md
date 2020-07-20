@@ -1,6 +1,6 @@
 # pandas-challenge
 
-Kristy Anderson\\n
+Kristy Anderson\n
 July 19, 2020
 Data Analytics
 Pandas Challenge Homework
