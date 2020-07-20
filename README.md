@@ -1,8 +1,8 @@
 # pandas-challenge
 
-Kristy Anderson\n
+Kristy Anderson
 July 19, 2020
 Data Analytics
 Pandas Challenge Homework
 
-Well, this was exciting and frustrating and I can't wait to see the answers
+Well, this was exciting and frustrating. I can't wait to see what the correct code is.
