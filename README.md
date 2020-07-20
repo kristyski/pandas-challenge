@@ -2,6 +2,8 @@
 for pandas homework
 
 Kristy Anderson
-July xx, 2020
+July 19, 2020
 Data Analytics
 Pandas Challenge Homework
+
+Well, this was exciting and frustrating and I can't wait to see the answers
